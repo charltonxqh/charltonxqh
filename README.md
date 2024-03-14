@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hi, I'm Charlton. 🐧
+
+💻 I'm currently studying **Data Science and Artificial Intelligence** in **Nanyang Technological University**
+
+🤖 I'm very interested in **Machine Learning** and **AI**
+
+🏸🏋🏊‍♂️ I'm a sport enthusiast ❤️‍🔥💦
+
+🌎🗺 I love travelling 🧳✈
+
 <!--
 **charltonxqh/charltonxqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
