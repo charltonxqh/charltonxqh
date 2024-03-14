@@ -2,13 +2,28 @@
 
 Hi, I'm Charlton. 🐧
 
-💻 I'm currently studying **Data Science and Artificial Intelligence** in **Nanyang Technological University**
+About Me :
 
-🤖 I'm very interested in **Machine Learning** and **AI**
+- 💻 Currently studying **Data Science and Artificial Intelligence** in **Nanyang Technological University**
 
-🏸🏋🏊‍♂️ I'm a sport enthusiast ❤️‍🔥💦
+- 🤖 Very interested in **Machine Learning** and **AI**
 
-🌎🗺 I love travelling 🧳✈
+- 🏸🏋🏊‍♂️ A sport enthusiast ❤️‍🔥💦
+
+- 🌎🗺 Love travelling 🧳✈
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| C         |
+|     3| Java      |
+|     4| HTML      |
+|     5| CSS       |
+
+</details>
 
 <!--
 **charltonxqh/charltonxqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
